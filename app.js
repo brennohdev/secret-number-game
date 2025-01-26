@@ -1,5 +1,5 @@
 let sortedNumbers = []
-let limitNumber = 10
+let limitNumber = 100
 let secretNumber = randomNumberGenerator();
 let tentatives = 1;
 
